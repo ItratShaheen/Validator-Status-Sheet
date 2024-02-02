@@ -1,0 +1,7 @@
+pandas
+selenium
+openpyxl
+python-dotenv  # If you decide to use .env files for environment variables
+
+
+
